@@ -1,9 +1,67 @@
-h1 {color: purple;
+h1 {color: darkblue;
 }
-body {background-color: lightblue; 
+body {background-color: pink; 
 }
 .img-circle {
 	width: 50px; height: 50px
 }
 .navbar {color: darkgrey;
+}html {
+  background-color: #f5f7f9;
 }
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 400;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #222324;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x; }
+
+body {font-family: 'Dosis', sans-serif;} 
+
+.jumbotron {background-image:url("../img/blossoms.jpg");
+;
+background-size: cover;  color: white;}
+.navbar {background-image:url("../img/blossoms.jpg");
+
